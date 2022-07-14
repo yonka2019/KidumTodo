@@ -1,0 +1,134 @@
+1657805585974	geckodriver	INFO	Listening on 127.0.0.1:56238
+1657805589031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56239" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofileSqvcTn"
+1657805589269	Marionette	INFO	Marionette enabled
+1657805589273	Marionette	INFO	Listening on port 56248
+WebDriver BiDi listening on ws://localhost:56239
+Read port: 56248
+1657805589460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofileSqvcTn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56239/devtools/browser/7279c068-5961-464c-808a-8c12823ab597
+JavaScript error: http://www.googletagmanager.com/gtm.js?id=GTM-5GLDMB&l=FTFdataLayer, line 35: uncaught exception: [object Object]
+JavaScript error: http://my.kidum.com/LoginRequired.aspx?Url=/students/ line 42 > injectedScript, line 1: ReferenceError: ShowModal is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://my.kidum.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://my.kidum.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657806159312	Marionette	INFO	Stopped listening on port 56248
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofile5z0nIc"
+1657805840433	Marionette	INFO	Marionette enabled
+1657805840436	Marionette	INFO	Listening on port 56374
+WebDriver BiDi listening on ws://localhost:56365
+Read port: 56374
+1657805840626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofile5z0nIc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56365/devtools/browser/ce8fe407-44d8-458e-b4fc-d6417551fb34
+JavaScript error: http://www.googletagmanager.com/gtm.js?id=GTM-5GLDMB&l=FTFdataLayer, line 35: uncaught exception: [object Object]
+JavaScript error: http://my.kidum.com/LoginRequired.aspx?Url=/students/ line 42 > injectedScript, line 1: ReferenceError: ShowModal is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://my.kidum.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://my.kidum.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657806159672	Marionette	INFO	Stopped listening on port 56374
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56476" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofileaUlmu1"
+1657805880602	Marionette	INFO	Marionette enabled
+1657805880606	Marionette	INFO	Listening on port 56485
+WebDriver BiDi listening on ws://localhost:56476
+Read port: 56485
+1657805880811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofileaUlmu1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56476/devtools/browser/26674410-65bc-4a34-ac9b-34f358156e7a
+JavaScript error: http://www.googletagmanager.com/gtm.js?id=GTM-5GLDMB&l=FTFdataLayer, line 35: uncaught exception: [object Object]
+JavaScript error: http://my.kidum.com/LoginRequired.aspx?Url=/students/ line 42 > injectedScript, line 1: ReferenceError: ShowModal is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://my.kidum.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://my.kidum.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657806159962	Marionette	INFO	Stopped listening on port 56485
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657808200992	geckodriver	INFO	Listening on 127.0.0.1:56838
+1657808204054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofileUNA8yD"
+1657808204291	Marionette	INFO	Marionette enabled
+1657808204295	Marionette	INFO	Listening on port 56850
+WebDriver BiDi listening on ws://localhost:56839
+Read port: 56850
+1657808204504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofileUNA8yD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56839/devtools/browser/decce46c-a3c5-414f-bf98-b254a03710f8
+JavaScript error: http://www.googletagmanager.com/gtm.js?id=GTM-5GLDMB&l=FTFdataLayer, line 35: uncaught exception: [object Object]
+JavaScript error: http://my.kidum.com/LoginRequired.aspx?Url=/students/ line 42 > injectedScript, line 1: ReferenceError: ShowModal is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://my.kidum.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://my.kidum.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657808844842	geckodriver	INFO	Listening on 127.0.0.1:57013
+1657808847913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57014" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofileIj5y8U"
+1657808848148	Marionette	INFO	Marionette enabled
+1657808848153	Marionette	INFO	Listening on port 57023
+WebDriver BiDi listening on ws://localhost:57014
+Read port: 57023
+1657808848354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofileIj5y8U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57014/devtools/browser/a0dd6b08-1af6-4703-b4b4-8afa5477ec76
+JavaScript error: http://www.googletagmanager.com/gtm.js?id=GTM-5GLDMB&l=FTFdataLayer, line 35: uncaught exception: [object Object]
+JavaScript error: http://my.kidum.com/LoginRequired.aspx?Url=/students/ line 42 > injectedScript, line 1: ReferenceError: ShowModal is not defined
+1657808852179	Marionette	INFO	Stopped listening on port 57023
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 2200, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1657808894135	geckodriver	INFO	Listening on 127.0.0.1:57117
+1657808897200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57118" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofileXKRNxy"
+1657808897464	Marionette	INFO	Marionette enabled
+1657808897468	Marionette	INFO	Listening on port 57129
+WebDriver BiDi listening on ws://localhost:57118
+Read port: 57129
+1657808897568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofileXKRNxy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57118/devtools/browser/d8c736b4-e334-4319-9096-34c822238e30
+JavaScript error: http://www.googletagmanager.com/gtm.js?id=GTM-5GLDMB&l=FTFdataLayer, line 35: uncaught exception: [object Object]
+JavaScript error: http://my.kidum.com/LoginRequired.aspx?Url=/students/ line 42 > injectedScript, line 1: ReferenceError: ShowModal is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://my.kidum.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://my.kidum.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657809545645	Marionette	INFO	Stopped listening on port 57129
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57240" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofileHiwizc"
+1657808996028	Marionette	INFO	Marionette enabled
+1657808996032	Marionette	INFO	Listening on port 57249
+WebDriver BiDi listening on ws://localhost:57240
+Read port: 57249
+1657808996224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofileHiwizc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57240/devtools/browser/377a07f4-88ca-43ce-bf1f-bd539bc13cc9
+JavaScript error: http://www.googletagmanager.com/gtm.js?id=GTM-5GLDMB&l=FTFdataLayer, line 35: uncaught exception: [object Object]
+JavaScript error: http://my.kidum.com/LoginRequired.aspx?Url=/students/ line 42 > injectedScript, line 1: ReferenceError: ShowModal is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://my.kidum.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://my.kidum.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657809034079	Marionette	INFO	Stopped listening on port 57249
+1657809465737	geckodriver	INFO	Listening on 127.0.0.1:57406
+1657809468791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofileqdBQ2F"
+1657809469027	Marionette	INFO	Marionette enabled
+1657809469031	Marionette	INFO	Listening on port 57416
+WebDriver BiDi listening on ws://localhost:57407
+Read port: 57416
+1657809469220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofileqdBQ2F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57407/devtools/browser/56af06a4-1724-4c29-8c5a-b969815f979b
+JavaScript error: http://www.googletagmanager.com/gtm.js?id=GTM-5GLDMB&l=FTFdataLayer, line 35: uncaught exception: [object Object]
+JavaScript error: http://my.kidum.com/LoginRequired.aspx?Url=/students/ line 42 > injectedScript, line 1: ReferenceError: ShowModal is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://my.kidum.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://my.kidum.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657809510448	Marionette	INFO	Stopped listening on port 57416
+1657809588310	geckodriver	INFO	Listening on 127.0.0.1:57537
+1657809591380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57538" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofile7vdTlc"
+1657809591610	Marionette	INFO	Marionette enabled
+1657809591615	Marionette	INFO	Listening on port 57547
+WebDriver BiDi listening on ws://localhost:57538
+Read port: 57547
+1657809591803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yonka\\AppData\\Local\\Temp\\rust_mozprofile7vdTlc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57538/devtools/browser/55e994a4-5780-475d-b886-e36d3d868e35
+JavaScript error: http://www.googletagmanager.com/gtm.js?id=GTM-5GLDMB&l=FTFdataLayer, line 35: uncaught exception: [object Object]
+JavaScript error: http://my.kidum.com/LoginRequired.aspx?Url=/students/ line 42 > injectedScript, line 1: ReferenceError: ShowModal is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://my.kidum.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://my.kidum.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1657809635040	Marionette	INFO	Stopped listening on port 57547
