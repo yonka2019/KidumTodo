@@ -10,4 +10,4 @@ Transfers kidum tasks to Microsoft To Do
 # Credits
 - Yonka
 
-[pymstodo](https://github.com/inbalboa/pymstodo)
+- [pymstodo](https://github.com/inbalboa/pymstodo)
