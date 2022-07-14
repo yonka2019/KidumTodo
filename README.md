@@ -8,5 +8,6 @@ Transfers kidum tasks to Microsoft To Do
 3. Start the program, input required meet number (1-18)
 
 # Credits
-Yonka
+- Yonka
+
 [pymstodo](https://github.com/inbalboa/pymstodo)
